@@ -35,9 +35,10 @@ ___
 ## Awesome Devices made with Alexa Voice Service
 
 1. [Pebble Core](https://developer.amazon.com/public/community/post/Tx3ODRPXT6P3TLB/Alexa-Comes-to-Pebble-Core;-Take-it-on-Your-Next-Run): a tiny standalone wearable device with Alexa built-in. Pebble Core is designed to allow people to listen to music (via Spotify), runners to track runs, and more – all without a smartphone.
-![](https://cdn.amazonblogs.com/developer_blog/images/amazon_hero-pebble2.png)
+![](https://cdn2.wtvox.com/wp-content/uploads/2016/05/pebble-core-design-and-specs.jpg)
 
 2. [Triby](https://developer.amazon.com/public/community/post/TxJLNN8EPI9NP1/Invoxia-Launches-Triby,-the-First-Non-Amazon-Device-to-Be-Alexa-Enabled) - First Non-Amazon Device to Be Alexa-Enabled. Triby is a family-friendly kitchen device that magnetically sticks to the fridge and can play music, make calls, display messages, and is voice activated.
-![](https://cdn.amazonblogs.com/developer_blog/images/triby.jpg)
+![](http://www.invoxia.com/wp-content/uploads/2016/03/Triby-bleu-alexa.jpg)
 
 3. [CoWatch](https://developer.amazon.com/public/community/post/TxU7Q817AYRO8Q/Introducing-CoWatch:-The-First-Smartwatch-Powered-by-Alexa) - First Smartwatch Powered by Alexa
+![](https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_620/v1460981661/00_-_Header-3_usjb8d.jpg)
