@@ -2,6 +2,8 @@
 
 A curated list of awesome stuff built using Alexa Skills and Alexa Voice Service. 
 
+![](assets/alexa-banner.png)
+
 ___
 
 ## Awesome Hacks built using Alexa Voice Service
