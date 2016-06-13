@@ -8,7 +8,11 @@ ___
 
 1. [Echosim.io](https://echosim.io/): Alexa in a browser
 
-2. [AlexaPi](https://github.com/sammachin/AlexaPi): A Python based hack to turn a Raspberry Pi into an Alexa Client.
+2. [AlexaPi](https://github.com/sammachin/AlexaPi): A Python based hack by Sam Machin to turn a Raspberry Pi into an Alexa Client.
+
+3. [Alexa on Intel Edison](https://github.com/pedrominatel/intel-edison-alexa): Based on Sam Machin's AlexaPi project, this hack ports Alexa to Intel Edison using the MRAA library from Intel. [YouTube](https://www.youtube.com/watch?v=gnmpcSXOh4U)
+
+4. [Alexa on Beagleboard](https://www.hackster.io/fcooper27/beaglealexa-56f174): Amazon Alexa like device running on the Beaglebone.
 
 3. [The $10 Echo](http://sammachin.com/the-10-echo/): Alexa Voice Service running on a CHIP.
 
@@ -21,6 +25,7 @@ ___
 
 6. [Raspberry Pi + Alexa Voice Service](https://github.com/amzn/alexa-avs-raspberry-pi): A step-by-step- walkthrough that demonstrates how to access and test the Alexa Voice Service using a Java client (running on a Raspberry Pi), and a Node.js server.
 ![](https://github.com/amzn/alexa-avs-raspberry-pi/raw/master/assets/rpi-5.jpg)
+ 
 
 
 ## Awesome Apps made with Alexa Voice Service
