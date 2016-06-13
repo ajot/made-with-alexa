@@ -11,7 +11,8 @@ ___
 2. [AlexaPi](https://github.com/sammachin/AlexaPi): A Python based hack to turn a Raspberry Pi into an Alexa Client.
 
 3. [The $10 Echo](http://sammachin.com/the-10-echo/): Alexa Voice Service running on a CHIP.
-![](https://i.ytimg.com/vi/Z1HGJyfoUBE/mqdefault.jpg)
+
+  ![](https://i.ytimg.com/vi/Z1HGJyfoUBE/mqdefault.jpg)
 
 4. [AVS Example Swift](https://github.com/carsonmcdonald/AVSExample-Swift): An Alexa Voice Service example using Swift specifically for the Mac but the general concept should work on iOS as well.
 
