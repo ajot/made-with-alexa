@@ -35,7 +35,7 @@ ___
 
 ____
 
-##Useful AVS Resources
+##Useful Alexa Voice Service (AVS) Resources
 
 - [Getting Started with AVS](https://developer.amazon.com/public/solutions/alexa/alexa-voice-service/getting-started-with-the-alexa-voice-service) 
 - [AVS API Overview](https://developer.amazon.com/public/solutions/alexa/alexa-voice-service/content/avs-api-overview)
@@ -43,10 +43,10 @@ ____
 - [Creating Voice Experiences Using Amazon Alexa - AWS re:Invent 2015](https://www.youtube.com/watch?v=mOcxd_KcQJI)
 - [Alexa Voice Service Under the Hood  - AWS re:Invent 2015](https://www.youtube.com/watch?v=qEYbjCXOU7Q)
 
-##Alexa Skills Kit Resources
+##Useful Alexa Skills Kit (ASK) Resources
 
 1. [Alexa Skills Kit (Javascript)](https://github.com/amzn/alexa-skills-kit-js) - SDK and example code for building voice-enabled skills for the Amazon Echo. http://developer.amazon.com/ask
 2. [Flask-Ask](https://github.com/johnwheeler/flask-ask): Rapidly develop Alexa Skills for Amazon Echo devices using Python 
-3. [go-alexa](https://github.com/mikeflynn/go-alexa): A Go toolset for creating Amazon Alexa Skills
-4. [Alexa Skills List](https://github.com/dale3h/alexa-skills-list): A list of all available Alexa Skills
- 
+3. [Creating your first Alexa Skill (Python)](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/alexa-skill-tutorial): With this quick walkthrough, you’ll have a simple but complete Alexa skill that can run on Amazon Echo or any Alexa-enabled device.
+4. [go-alexa](https://github.com/mikeflynn/go-alexa): A Go toolset for creating Amazon Alexa Skills
+5. [Alexa Skills List](https://github.com/dale3h/alexa-skills-list): A list of all available Alexa Skills
