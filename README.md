@@ -33,3 +33,23 @@ ___
 1. [Pebble Core](https://developer.amazon.com/public/community/post/Tx3ODRPXT6P3TLB/Alexa-Comes-to-Pebble-Core;-Take-it-on-Your-Next-Run): a tiny standalone wearable device with Alexa built-in. Pebble Core is designed to allow people to listen to music (via Spotify), runners to track runs, and more – all without a smartphone.
 2. [Triby](https://developer.amazon.com/public/community/post/TxJLNN8EPI9NP1/Invoxia-Launches-Triby,-the-First-Non-Amazon-Device-to-Be-Alexa-Enabled) - First Non-Amazon Device to Be Alexa-Enabled. Triby is a family-friendly kitchen device that magnetically sticks to the fridge and can play music, make calls, display messages, and is voice activated.
 3. [CoWatch](https://developer.amazon.com/public/community/post/TxU7Q817AYRO8Q/Introducing-CoWatch:-The-First-Smartwatch-Powered-by-Alexa) - First Smartwatch Powered by Alexa
+
+____
+
+##Useful AVS Resources
+
+- [Getting Started with AVS](https://developer.amazon.com/public/solutions/alexa/alexa-voice-service/getting-started-with-the-alexa-voice-service) 
+- [AVS API Overview](https://developer.amazon.com/public/solutions/alexa/alexa-voice-service/content/avs-api-overview)
+- [Alexa Voice Service Sample App (Java)](https://developer.amazon.com/public/solutions/alexa/alexa-voice-service/docs/java-client-sample) 
+- [Creating Voice Experiences Using Amazon Alexa - AWS re:Invent 2015](https://www.youtube.com/watch?v=mOcxd_KcQJI)
+- [Alexa Voice Service Under the Hood  - AWS re:Invent 2015](https://www.youtube.com/watch?v=qEYbjCXOU7Q)
+
+##Alexa Skills Kit Resources
+
+1. [Alexa Skills Kit (Javascript)](https://github.com/amzn/alexa-skills-kit-js) - SDK and example code for building voice-enabled skills for the Amazon Echo. http://developer.amazon.com/ask
+2. [Flask-Ask](https://github.com/johnwheeler/flask-ask): Rapidly develop Alexa Skills for Amazon Echo devices using Python 
+3. [go-alexa](https://github.com/mikeflynn/go-alexa): A Go toolset for creating Amazon Alexa Skills
+4. [Alexa Skills List](https://github.com/dale3h/alexa-skills-list): A list of all available Alexa Skills
+ 
+
+
