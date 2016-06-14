@@ -10,23 +10,22 @@ ___
 
 ## Cool hacks built using Alexa Voice Service
 
-1. [Echosim.io](https://echosim.io/): Alexa in a browser
+1. [Raspberry Pi + Alexa Voice Service](https://github.com/amzn/alexa-avs-raspberry-pi): A step-by-step- walkthrough that demonstrates how to access and test the Alexa Voice Service using a Java client (running on a Raspberry Pi), and a Node.js server.
 2. [AlexaPi](https://github.com/sammachin/AlexaPi): A Python based hack by Sam Machin to turn a Raspberry Pi into an Alexa Client.
 3. [Alexa on Intel Edison](https://github.com/pedrominatel/intel-edison-alexa): Based on Sam Machin's AlexaPi project, this hack ports Alexa to Intel Edison using the MRAA library from Intel. [YouTube](https://www.youtube.com/watch?v=gnmpcSXOh4U)
 4. [Alexa on Beagleboard](https://www.hackster.io/fcooper27/beaglealexa-56f174): Amazon Alexa like device running on the Beaglebone.
-3. [The $10 Echo](http://sammachin.com/the-10-echo/): Alexa Voice Service running on a CHIP.
-4. [AVS Example Swift](https://github.com/carsonmcdonald/AVSExample-Swift): An Alexa Voice Service example using Swift specifically for the Mac but the general concept should work on iOS as well.
-5. [1970s Raspberry Pi Amazon AlexaPhone](http://lifehacker.com/use-a-raspberry-pi-to-add-alexa-voice-search-to-an-old-1771217709): A 1970s-style trimphone that’s converted to house a Raspberry Pi running Amazon's Alexa voice search service. Step-by-step instructions on [Instructables](http://www.instructables.com/id/1970s-Raspberry-Pi-Amazon-AlexaPhone/).
-6. [Raspberry Pi + Alexa Voice Service](https://github.com/amzn/alexa-avs-raspberry-pi): A step-by-step- walkthrough that demonstrates how to access and test the Alexa Voice Service using a Java client (running on a Raspberry Pi), and a Node.js server.
-7. [Alexa Voice Service Client App](https://github.com/miguelmota/AVS-client): A Front-end application for interacting with Alexa Voice Service.
-
+5. [The $10 Echo](http://sammachin.com/the-10-echo/): Alexa Voice Service running on a CHIP.
+6. [1970s Raspberry Pi Amazon AlexaPhone](http://lifehacker.com/use-a-raspberry-pi-to-add-alexa-voice-search-to-an-old-1771217709): A 1970s-style trimphone that’s converted to house a Raspberry Pi running Amazon's Alexa voice search service. Step-by-step instructions on [Instructables](http://www.instructables.com/id/1970s-Raspberry-Pi-Amazon-AlexaPhone/).
+7. [AVS Example Swift](https://github.com/carsonmcdonald/AVSExample-Swift): An Alexa Voice Service example using Swift specifically for the Mac but the general concept should work on iOS as well.
+8. [Alexa Voice Service Client App](https://github.com/miguelmota/AVS-client): A Front-end application for interacting with Alexa Voice Service.
 ___
 
 ## Apps built using Alexa Voice Service
 
-1. [Lexi](https://itunes.apple.com/us/app/lexi-for-alexa-voice-services/id1092933088?mt=8) (iOS) - A smart personal assistant powered by Alexa Voice Service. Lexi listens as you speak, and then replies through the speaker or headphones connected to your iPhone or iPod touch. 
-2. [Roger](https://rogertalk.com/) (iOS & Android)
-3. [MacLexa](https://github.com/kunal732/MacLexa): Put Amazon's Alexa in the Mac System Tray - uses Alexa Voice Service and built with Swift
+1. [Echosim.io](https://echosim.io/): Alexa in a browser 
+2. [Lexi](https://itunes.apple.com/us/app/lexi-for-alexa-voice-services/id1092933088?mt=8) (iOS) - A smart personal assistant powered by Alexa Voice Service. Lexi listens as you speak, and then replies through the speaker or headphones connected to your iPhone or iPod touch. 
+3. [Roger](https://rogertalk.com/) (iOS & Android)
+4. [MacLexa](https://github.com/kunal732/MacLexa): Put Amazon's Alexa in the Mac System Tray - uses Alexa Voice Service and built with Swift
 
 ## Devices built using Alexa Voice Service
 
@@ -51,5 +50,3 @@ ____
 3. [go-alexa](https://github.com/mikeflynn/go-alexa): A Go toolset for creating Amazon Alexa Skills
 4. [Alexa Skills List](https://github.com/dale3h/alexa-skills-list): A list of all available Alexa Skills
  
-
-
