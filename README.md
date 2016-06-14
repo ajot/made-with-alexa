@@ -2,8 +2,9 @@
 
 A curated list of awesome stuff built using Alexa Skills and Alexa Voice Service. [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-
 ![](assets/alexa-banner.png)
+
+Also, see [Collection of awesome resources and libraries](https://github.com/miguelmota/awesome-amazon-echo) for the Amazon Echo, Alexa Skills Kit (ASK), and Alexa Voice Service (AVS) by @miguelmota. 
 
 ___
 
@@ -25,6 +26,12 @@ ___
 
 6. [Raspberry Pi + Alexa Voice Service](https://github.com/amzn/alexa-avs-raspberry-pi): A step-by-step- walkthrough that demonstrates how to access and test the Alexa Voice Service using a Java client (running on a Raspberry Pi), and a Node.js server.
 
+
+7. [Alexa Voice Service Client App](https://github.com/miguelmota/AVS-client): A Front-end application for interacting with Alexa Voice Service.
+
+
+
+___
 
 ## Awesome Apps made with Alexa Voice Service
 
