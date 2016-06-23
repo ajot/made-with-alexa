@@ -42,6 +42,8 @@ ____
 - [Alexa Voice Service Sample App (Java)](https://developer.amazon.com/public/solutions/alexa/alexa-voice-service/docs/java-client-sample) 
 - [Creating Voice Experiences Using Amazon Alexa - AWS re:Invent 2015](https://www.youtube.com/watch?v=mOcxd_KcQJI)
 - [Alexa Voice Service Under the Hood  - AWS re:Invent 2015](https://www.youtube.com/watch?v=qEYbjCXOU7Q)
+- [Alexa Voice Service Functional Design Guide](https://developer.amazon.com/public/solutions/alexa/alexa-voice-service/content/alexa-voice-service-functional-design-guide) - Best practices for integrating Alexa into your product
+- [Alexa Voice Service Terms of Service](https://developer.amazon.com/edw/avs_agreement.html)
 
 ##Useful Alexa Skills Kit (ASK) Resources
 
